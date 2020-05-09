@@ -1,1 +1,0 @@
-# Apothecary-Medical-store-management-system
